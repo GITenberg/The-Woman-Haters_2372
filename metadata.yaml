@@ -1,0 +1,28 @@
+_repo: The-Woman-Haters_2372
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lincoln, Joseph Crosby
+    alias: Lincoln, Joseph C.
+    birthdate: 1870
+    deathdate: 1944
+    gutenberg_agent_id: '810'
+    url: http://www.gutenberg.org/2009/agents/810
+description: ''
+gutenberg_issued: '2006-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2372'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lighthouse keepers -- Fiction'
+- !lcsh 'Massachusetts -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Humorous stories'
+- !lcsh 'Cape Cod (Mass.) -- Fiction'
+- GITenberg
+title: The Woman-Haters
+url: http://www.gutenberg.org/ebooks/2372
